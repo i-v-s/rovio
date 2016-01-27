@@ -1,4 +1,5 @@
 #include "rovio/FeatureCoordinates.hpp"
+#include <opencv2/opencv.hpp>
 
 namespace rovio{
 

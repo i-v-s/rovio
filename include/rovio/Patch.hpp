@@ -29,6 +29,8 @@
 #ifndef ROVIO_PATCH_HPP_
 #define ROVIO_PATCH_HPP_
 
+#include <opencv2/opencv.hpp>
+
 #include "lightweight_filtering/common.hpp"
 #include "rovio/FeatureCoordinates.hpp"
 
